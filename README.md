@@ -1,5 +1,5 @@
 # Typescript-Fundamentals
-
+## BY JUAN DAVID REYES 
 # Why use TypeScript?
 
 - Reduction of bugs in our code since TypeScript is typed.
